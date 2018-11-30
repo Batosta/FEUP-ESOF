@@ -1,0 +1,6 @@
+Relatorio:
+
+source code explicar o que faz cada file
+requirements explicar melhor o user casa
+criar o uml geral
+uml's particulares
